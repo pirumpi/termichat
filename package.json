@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/pirumpi/termichat/issues"
   },
-  "homepage": "https://github.com/pirumpi/termichat#readme"
+  "homepage": "https://github.com/pirumpi/termichat#readme",
+  "dependencies": {
+    "sqlite3": "^5.0.2"
+  }
 }
